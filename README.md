@@ -5,9 +5,8 @@ An interactive word-guessing game built with **React** and **Vite**, where playe
 ---
 
 ## 🌐 Live Demo
-```
-👉 [https://assembly-endgame-neon.vercel.app/](https://assembly-endgame-neon.vercel.app/)
-```
+
+**Play the game here:** https://assembly-endgame-neon.vercel.app/
 
 ---
 
